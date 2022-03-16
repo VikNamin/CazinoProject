@@ -16,7 +16,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String url = "https://hirelmany.ru/4D3PyMpD";
+    private String url = "https://belowfast.xyz/xzCQfjzB";
     public static boolean checker = false;
     private WebView webView;
 
@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickStart(View view) {
-        Intent intent = new Intent(this, RouletteActivity.class);
+        Intent intent = new Intent(this, WheelActivity.class);
         startActivity(intent);
     }
 
