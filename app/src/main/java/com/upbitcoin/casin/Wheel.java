@@ -1,4 +1,6 @@
-package org.o7planning.rouletteproject;
+package com.upbitcoin.casin;
+
+import org.o7planning.rouletteproject.R;
 
 public class Wheel extends Thread {
 

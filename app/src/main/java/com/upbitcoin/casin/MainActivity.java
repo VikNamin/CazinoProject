@@ -1,4 +1,4 @@
-package org.o7planning.rouletteproject;
+package com.upbitcoin.casin;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
@@ -7,6 +7,7 @@ import android.view.View;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
+import org.o7planning.rouletteproject.R;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;

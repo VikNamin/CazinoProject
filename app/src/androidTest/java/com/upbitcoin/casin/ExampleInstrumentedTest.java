@@ -1,4 +1,4 @@
-package org.o7planning.rouletteproject;
+package com.upbitcoin.casin;
 
 import android.content.Context;
 

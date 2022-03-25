@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.o7planning.rouletteproject">
+    package="com.upbitcoin.casin">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -12,10 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RouletteProject">
         <activity
-            android:name=".WheelActivity"
+            android:name="com.upbitcoin.casin.WheelActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.upbitcoin.casin.MainActivity"
             android:configChanges="orientation|screenSize"
             android:exported="true">
             <intent-filter>
